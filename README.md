@@ -18,7 +18,9 @@ This repository includes basic Python programs created while learning Python fun
 - Functions
 
 ## 📂 Files
--  : Program to calculate total, average and grade for students
+-  [marks_grade.py](marks_grade.py) : Program to calculate total, average and grade for students
 
 ## 🔗 GitHub Profile
+[Revathi GitHub](https://github.com/Revathi-161)
+
 
