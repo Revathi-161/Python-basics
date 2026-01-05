@@ -1,26 +1,25 @@
-# Python-basics
+# Python Basics
 
-The repository contains my beginner practice of python programs.
+## Description
+This repository contains beginner-level Python programs for practice.
 
-## 👩‍💻 About Me
-Name: Revathi  
-Role: Fresher  
-Learning: Python  
-
-## 📘 About This Repository
-This repository includes basic Python programs created while learning Python fundamentals.
-
-## 🛠 Topics Covered
-- Input and Output
+## Topics Covered
 - Variables
-- Conditional statements
+- Data Types
+- Conditional Statements
 - Loops
 - Functions
 
-## 📂 Files
--  [marks_grade.py](marks_grade.py) : Program to calculate total, average and grade for students
+## Programs
+- Even or Odd
+- Prime Number
+- Fibonacci Series
+- Palindrome Check
+- Simple Calculator
 
-## 🔗 GitHub Profile
-[Revathi GitHub](https://github.com/Revathi-161)
+## How to Run
+1. Install Python
+2. Run: python filename.py
 
-
+## Author
+Revathi
